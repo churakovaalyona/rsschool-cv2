@@ -7,8 +7,6 @@ Tel.:+79160903653
 Email: churakovaalyona@gmail.com
 
 Discord nickname : churakovaalyona
-
-
 ## About me
 My full name is Alena Churakova.
 I’m a fourth-year student of Moscow International Institute, the faculty of Linguistics. I’ve decided to try something new and switched to Frontend because I've already worked in different spheres and I realised that programming is a better choice for me. I chose Frontend development because I like seeing the results of my work and I already had some experience with HTML when I was a child and I liked it.
@@ -16,13 +14,9 @@ Now I am looking for my first job as a developer.
 
 
 ## Skills
-
 HTML
-
 CSS
-
 Git
-
 Github
 
 ## Coding examples
